@@ -11,8 +11,8 @@ body {
     justify-content: space-between;
     background-color: #1f2937;
     align-items: center;
-    padding-left: 256px;
-    padding-right: 256px;
+    padding-left: 128px;
+    padding-right: 128px;
 }
 
 .nav .left {
@@ -35,8 +35,8 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding-left: 256px;
-    padding-right: 256px;
+    padding-left: 128px;
+    padding-right: 128px;
     background-color: #1f2937;
 }
 
@@ -71,7 +71,7 @@ body {
     color: #E5E7EB;
     font-size: 18px;
     background-color: gray;
-    padding: 128px 256px;
+    padding: 80px 100px;
 }
 
 /* SECOND SECTION */
@@ -86,7 +86,7 @@ body {
     display: flex;
     justify-content: space-evenly;
     margin-bottom: 64px;
-    padding: 0px 256px;
+    padding: 0px 128px;
 }
 
 .images {
@@ -107,7 +107,7 @@ body {
 /* QUOTATION */
 .quotation {
     background-color: #E5E7EB;
-    padding: 128px 450px;
+    padding: 64px 220px;
 }
 
 .quote {
@@ -120,12 +120,12 @@ body {
 .writer {
     font-weight: bold;
     text-align: end;
-    font-size: 36px;
+    font-size: 22px;
 }
 
 /* SIGN UP */
 .sign_up_container {
-    padding: 128px 256px;
+    padding: 80px 220px;
 }
 
 .sign_up {
@@ -134,28 +134,28 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 32px 128px;
+    padding: 20px 80px;
 }
 
 .text .call {
     color: white;
-    font-size: 32px;
+    font-size: 22px;
     font-weight: bold;
     margin-bottom: 0;
 }
 
 .text .sign {
     color: white;
-    font-size: 25px;
+    font-size: 18px;
     margin-top: 0;
 }
 
 .button button{
-    font-size: 25px;
+    font-size: 15px;
     background-color: transparent;
     border: 3px solid white;
-    padding: 8px 64px;
-    border-radius: 12px;
+    padding: 4px 32px;
+    border-radius: 10px;
     color: white;
 }
 
@@ -163,7 +163,7 @@ body {
 .footer {
     background-color: #1f2937;
     color: #E5E7EB;
-    font-size: 22px;
+    font-size: 16px;
     text-align: center;
     padding: 16px;
 }
